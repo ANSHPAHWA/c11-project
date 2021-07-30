@@ -18,7 +18,7 @@ function setup(){
   //creating the runner boy
   runner=createSprite(200,200,10,10);
   runner.addAnimation("moving",runner1);
-  edges=createSprite();
+  //edges=createSprite();
 
   //giving scale and positions to runner
   runner.scale=0.08;
